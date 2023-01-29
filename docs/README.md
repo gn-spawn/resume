@@ -10,6 +10,13 @@
 
 ---
 
+## キャリア目標
+
+**エンジニアとして事業を成長させられる存在**
+エンジニアは「どうやるか？」を実現する役割が基本ですが、その役割を超えて「何をやるか？」や「どう使ってもらうか？」などの広い視点で（ときにはPdMやマーケター・セールスの視点で）事業を成長させられるエンジニア像を目指しています。
+
+---
+
 ## ソーシャルアカウント
 
 <a href="https://github.com/gn-spawn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/gn-spawn-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
